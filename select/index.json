@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Why iii Love The Moon.",
+  "base_artist": "Phony Ppl",
+  "createdAt": "2026-02-25T03:04:09.685687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Why iii Love The Moon.",
+      "artist": "Phony Ppl",
+      "has_synced": true,
+      "path": "select/01_Why_iii_Love_The_Moon._Phony_Ppl.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Why iii Love the Moon․",
+      "artist": "Phony Ppl",
+      "has_synced": true,
+      "path": "select/02_Why_iii_Love_the_Moon._Phony_Ppl.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Why iii Love The Moon.",
+      "artist": "Phony Ppl",
+      "has_synced": true,
+      "path": "select/03_Why_iii_Love_The_Moon._Phony_Ppl.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Why iii Love The Moon.",
+      "artist": "Phony Ppl",
+      "has_synced": true,
+      "path": "select/04_Why_iii_Love_The_Moon._Phony_Ppl.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Why iii Love The Moon",
+      "artist": "Phony Ppl",
+      "has_synced": true,
+      "path": "select/05_Why_iii_Love_The_Moon_Phony_Ppl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Why iii Love the Moon.",
+      "artist": "Phony Ppl",
+      "has_synced": false,
+      "path": "select/pl_01_Why_iii_Love_the_Moon._Phony_Ppl.txt"
+    }
+  ]
+}
