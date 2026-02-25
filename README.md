@@ -1,0 +1,78 @@
+# Phony Ppl – Why iii Love The Moon.
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.28] Real love's so hard to find
+[00:09.25] Just when you think you've found it
+[00:16.12] The illusions in your eyes
+[00:29.12] 
+[00:24.41] That's why I love the moon
+[00:29.82] Every night, it's there for you
+[00:36.09] It's constant
+[00:40.27] Unlike these human beings
+[00:44.85] Who lie about what it seems to be
+[00:49.94] You think the earth is where you stand
+[00:55.11] You're in the palm of someone's hand
+[01:13.11] 
+[01:01.15] And that's why I love the moon
+[01:06.70] 'Cause it's always there for me
+[01:11.39] Every night about my window
+[01:17.16] And that's why I love the moon
+[01:21.98] 'Cause it's always there for me
+[01:27.64] Every single night I look outside
+[01:44.14] 
+[01:32.58] It's right there for me
+[01:35.72] And my mind
+[01:37.35] And that's why I love the moon, yeah
+[01:42.56] Because people can consume my love
+[01:48.01] In the wrong way
+[01:50.55] So I send it up
+[01:53.95] At night, at night, at night
+[02:07.95] 
+[01:58.53] Real love's so hard to find
+[02:01.68] Just when you think you've found it
+[02:03.74] The illusions in your eyes it blinds
+[02:08.70] So be careful where you look for love
+[02:13.93] Just be careful where you look for love, ohh
+[02:35.93] 
+[02:19.14] Real love's so hard to find
+[02:22.69] Just when you think you've found it
+[02:24.76] The illusions in your eyes it blinds us all
+[02:29.73] So be careful where you look for love
+[02:34.93] Just be careful where you look for love, ohh
+[02:56.93] 
+[02:38.38] Yo, yo, yo, yo, yo
+[02:41.95] Yo, that's why I let the moon shine
+[02:44.05] ('Cause through the time I've been confused on how to move, I'm)
+[02:46.17] Stuck in between what wasn't and what could be the truth, ha
+[02:49.12] (Still up tryna escape the demons in my room, yo)
+[02:51.51] You see it's no change dropping, we learn to maintain profit
+[02:54.21] And how could anybody else feel pain when they brainwash us?
+[02:56.64] And watch us every time we make exchanges (we slaves)
+[03:23.14] 
+[02:58.96] Locked in a box, we use our mind just to escape all the same shit
+[03:01.92] I'm tired of the pain
+[03:03.02] Love is blind to the flame
+[03:04.33] That's why I look up, never hide behind skies when it rain
+[03:06.91] Promises cooked up exercisin' through denyin' the pain
+[03:09.57] That's why I look for ways to find whatever lies in the rain
+[03:12.02] 'Cause shit change
+[03:21.02] 
+[03:12.73] I don't blame my father for lampin', I believe that helped
+[03:15.33] Went from tryna grow as your son to tryna grow as myself
+[03:17.98] So understand it when I'm stranded
+[03:19.35] Taking chances, know I need that fall
+[03:21.19] Flat on my back, you just relax and kick your seat back, uh
+[03:50.69] 
+[03:24.14] 'Cause when you think
+[03:25.49] That's when you let time run and escape
+[03:27.17] What your mind's loving, that's what you think
+[03:29.08] So what you think?
+[03:30.28] If love was easy to find, we wouldn't need it to complete our lives, so
+[04:05.78] 
+[03:35.00] Peace to the moon
+[03:37.93] Peace to the stars
+[03:40.67] Peace to Saturn
+[03:42.16] And peace to Mars
+```
